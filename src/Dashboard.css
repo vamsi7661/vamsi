@@ -1,0 +1,49 @@
+.dashboard-container{
+    background-color:#fff;
+    width: 60%;
+    min-height:100vh;
+}
+.h4-line{
+    width: 100%;
+    height: 5px;
+    color:#000;
+    margin: 0px;
+}
+.hr-line-dotted{
+    width: 100%;
+    height: 5px !important; 
+    background-color: transparent !important;
+    border:none;
+    border-top: 2px dashed #000;
+}
+.sub-container{
+    /* width: 50%; */
+    background-color: #fff ;
+    /* box-shadow: 2px 0px 5px 3px #888888; */
+    border-radius: 8px;
+}
+.text-color-box{
+    color: black;
+}
+.table{
+    /* border-color:#000 !important; */
+    width: 95% !important;
+   
+}
+table th{
+    font-size: 13px !important;
+    padding: 5px !important;
+}
+table tr th{
+    font-size: 12px !important;
+    padding: 5px !important;
+}
+table tr td{
+    font-size: 10px !important;
+    padding: 5px !important;
+}
+.button-borders{
+    border-bottom: 1px solid blue !important;
+    border-radius: 0px !important;
+    transition: all ease-out 0.5s;
+}
